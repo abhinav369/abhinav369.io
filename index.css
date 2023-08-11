@@ -1,0 +1,21 @@
+* {
+  background-color: bisque;
+}
+input {
+  padding: 1em;
+}
+.mean {
+  background-color: aqua;
+  color: blueviolet;
+}
+#emo {
+  background-color: azure;
+}
+#emoj {
+  color: red;
+  background-color: azure;
+}
+input {
+  color: blue;
+  background-color: pink;
+}
