@@ -3,11 +3,11 @@ import "./index.css";
 import "./App.css";
 var emojiDictionary = {
   "😀": "smiling",
-  "😂": "mela babu hsra h!",
-  "😎": "bhai ki taur ha",
-  "😍": "hme tumse pyaar itna",
-  "🥱": "babu ko nini ari ha",
-  "😴": "babu ghode bechkr sogya",
+  "😂": "laughing!",
+  "😎": "stylish bud",
+  "😍": "maybe in love with react!",
+  "🥱": "rest indeed",
+  "😴": "asleep",
 };
 
 export default function App() {
